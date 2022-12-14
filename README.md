@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas1i8/)
 
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasTab0rda&show_icons=true&theme=dracula))
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasTab0rda&show_icons=true&theme=dracula)
 
 ## Tecnologias que utilizo no meu dia dia 
 
