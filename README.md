@@ -1,5 +1,5 @@
 
-### Eai, Tudo bem? Me chamo Lucas Taborda, seja muito bem vindo  🖖
+### Eai, Tudo bem? Me chamo Lucas De Lana Taborda, seja muito bem vindo  🖖
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucastaborda1970@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-taborda-212a03225)
