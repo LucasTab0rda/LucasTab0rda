@@ -20,6 +20,7 @@
 ```typescript
 const lucas = {
   curso:     "Análise e Desenvolvimento de Sistemas",
+  formacao:  "Designer de Animação 🎨",
   foco:      ["Web Development", "Novas Tecnologias"],
   aprendendo: "Sempre algo novo 📚",
   fun_fact:  "A disciplina supera o talento 🏆"
