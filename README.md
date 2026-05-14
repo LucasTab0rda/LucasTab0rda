@@ -67,12 +67,6 @@ const lucas = {
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=LucasTab0rda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTab0rda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-      </td>
     </tr>
   </table>
 </div>
