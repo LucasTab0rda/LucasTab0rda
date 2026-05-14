@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Lucas Taborda! 👋
+# Fala, visitante! Muito prazer 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%F0%9F%8E%93;Apaixonado+por+tecnologia+%F0%9F%9A%80;A+disciplina+supera+o+talento+%F0%9F%8F%86)](https://git.io/typing-svg)
 
@@ -64,8 +64,16 @@ const lucas = {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasTab0rda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTab0rda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=LucasTab0rda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTab0rda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -74,10 +82,10 @@ const lucas = {
 
 ---
 
-## 🐍 Minhas contribuições
+## 📈 Gráfico de atividade
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LucasTab0rda/LucasTab0rda/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasTab0rda&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
